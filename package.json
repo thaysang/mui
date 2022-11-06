@@ -1,6 +1,6 @@
 {
   "name": "@thaysang/mui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "npm install @mui/material @emotion/react @emotion/styled @thaysang/mui",
   "type":"module",
   "source": "src/index.js",
@@ -9,7 +9,7 @@
     "regex": "^_"
   },
   "scripts": {
-    "build": "microbundle -f es --sourcemap false --jsx React.createElement --globals react,react-native --external react,react-native"  
+    "build": "microbundle --sourcemap false --jsx React.createElement --globals react,react-native,react-dom --external @mui/material,@emotion/react,@emotion/styled"  
   },
   "repository": {
     "type": "git",
