@@ -1,6 +1,5 @@
 import * as M from "@mui/material"
 import styled from "@emotion/styled"
-console.log(M)
 const _css = p => {
     const _a = [
         "animation",
