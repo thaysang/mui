@@ -1,6 +1,6 @@
 {
   "name": "@thaysang/mui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "npm install @mui/material @emotion/react @emotion/styled @thaysang/mui",
   "type":"module",
   "source": "src/index.js",
