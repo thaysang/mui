@@ -1,0 +1,26 @@
+{
+  "name": "@thaysang/mui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaysang/mui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaysang/mui/issues"
+  },
+  "homepage": "https://github.com/thaysang/mui#readme",
+  "devDependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.12",
+    "microbundle": "^0.15.1"
+  }
+}
